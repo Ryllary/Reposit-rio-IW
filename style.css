@@ -4,3 +4,19 @@ body{
 .container{
     background-color: #956A33;
 }
+h1{
+    text-align: center;
+    text-shadow: #512E10;
+    background-color: #956A33;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #EEE4D8;
+    text-align: center;
+    border: #4D2F24;
+}
+div.static {
+    position: static;
+    border: 3px solid #A6864D;
+    text-align: center;
+  }
