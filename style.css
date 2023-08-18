@@ -3,4 +3,5 @@ body{
 }
 .container{
     background-color: #956A33;
+    backface-visibility: hidden;
 }
